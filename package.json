@@ -1,0 +1,23 @@
+{
+  "name": "new_lugu",
+  "version": "0.0.1",
+  "description": "这是一个基于vue2打造的UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1106207638/new_gulu.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "秦旭旸",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1106207638/new_gulu/issues"
+  },
+  "homepage": "https://github.com/1106207638/new_gulu#readme"
+}
